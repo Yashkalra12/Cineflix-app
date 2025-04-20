@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Cineflix-app",
-    "slug": "Cineflix-app",
+    "name": "Cineflix",
+    "slug": "Cineflix",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
     "scheme": "movies",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-    "ios": {
+    "ios": { 
       "supportsTablet": true
     },
     "android": {
